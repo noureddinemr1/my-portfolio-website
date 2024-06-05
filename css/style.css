@@ -9154,7 +9154,7 @@ textarea.form-control {
   background: #b1b493 !important; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 1em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
@@ -9328,7 +9328,7 @@ textarea.form-control {
 .ftco-counter {
   overflow-x: hidden;
   position: relative;
-  padding: 5em 0; }
+  padding: 2em 0; }
   @media (max-width: 1199.98px) {
     .ftco-counter {
       background-position: center center !important; } }
@@ -9765,5 +9765,5 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 .sm{
-  margin-left: 44%;
+  margin-left: 39%;
 }
