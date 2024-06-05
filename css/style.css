@@ -465,7 +465,12 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
-
+.newone{
+    transition: transform 0.3s;
+}
+.newone:hover{
+    transform: translateY(-10px);
+}
 .row {
   display: -webkit-box;
   display: -ms-flexbox;
