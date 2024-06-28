@@ -467,6 +467,11 @@ pre {
   margin-left: auto; }
 .newone{
     transition: transform 0.3s;
+    
+}
+.newone svg{
+  height: 50px;
+  width: 50px;
 }
 .newone:hover{
     transform: translateY(-10px);
